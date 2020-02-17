@@ -1,0 +1,16 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#FFFF5722" >
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvtutorh"
+        android:text="Ubah SSID"
+        android:textColor="#ffffff"
+        android:paddingBottom="8dp"
+        android:layout_gravity="center"
+        style="@style/Widget.AppCompat.Button.Borderless"/>
+
+</LinearLayout>
